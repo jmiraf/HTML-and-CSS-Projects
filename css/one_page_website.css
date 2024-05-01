@@ -1,0 +1,9 @@
+body{
+	 font-family: 'Aptos';font-size: 12px;
+}
+form input[type=text] {
+  width: 50%;
+  margin: 8px 0;
+  border: 2px solid red;
+  border-radius: 4px;
+}
